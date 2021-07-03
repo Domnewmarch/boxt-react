@@ -1,7 +1,6 @@
 {
   "name": "boxt-react",
   "version": "0.1.0",
-  "homepage": "http://domnewmarch/github.io/boxt-react",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.1.2",
@@ -19,8 +18,6 @@
   },
   "scripts": {
     "start": "craco start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject"
