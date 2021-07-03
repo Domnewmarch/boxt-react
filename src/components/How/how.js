@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 
 import HowImg from '../../assets/images/how-img.png'
-import Button from '../Button/Button'
+
 import Button2 from '../Button/Button2'
 
 
