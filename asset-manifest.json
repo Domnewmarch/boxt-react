@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/github.io/boxt-react/static/css/main.9c313e1b.chunk.css",
+    "main.js": "/github.io/boxt-react/static/js/main.36cd3f05.chunk.js",
+    "main.js.map": "/github.io/boxt-react/static/js/main.36cd3f05.chunk.js.map",
+    "runtime-main.js": "/github.io/boxt-react/static/js/runtime-main.7c051133.js",
+    "runtime-main.js.map": "/github.io/boxt-react/static/js/runtime-main.7c051133.js.map",
+    "static/js/2.87d44b96.chunk.js": "/github.io/boxt-react/static/js/2.87d44b96.chunk.js",
+    "static/js/2.87d44b96.chunk.js.map": "/github.io/boxt-react/static/js/2.87d44b96.chunk.js.map",
+    "index.html": "/github.io/boxt-react/index.html",
+    "static/css/main.9c313e1b.chunk.css.map": "/github.io/boxt-react/static/css/main.9c313e1b.chunk.css.map",
+    "static/js/2.87d44b96.chunk.js.LICENSE.txt": "/github.io/boxt-react/static/js/2.87d44b96.chunk.js.LICENSE.txt",
+    "static/media/Google-logo.svg": "/github.io/boxt-react/static/media/Google-logo.bd96a188.svg",
+    "static/media/bosch-logo.svg": "/github.io/boxt-react/static/media/bosch-logo.0446941c.svg",
+    "static/media/edf-logo.svg": "/github.io/boxt-react/static/media/edf-logo.65be3902.svg",
+    "static/media/hero-bg.a86ab205.png": "/github.io/boxt-react/static/media/hero-bg.a86ab205.png",
+    "static/media/how-img.5c76c696.png": "/github.io/boxt-react/static/media/how-img.5c76c696.png",
+    "static/media/itv-logo.svg": "/github.io/boxt-react/static/media/itv-logo.d4cd5dc8.svg",
+    "static/media/worcester-logo.svg": "/github.io/boxt-react/static/media/worcester-logo.1593725f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c051133.js",
+    "static/js/2.87d44b96.chunk.js",
+    "static/css/main.9c313e1b.chunk.css",
+    "static/js/main.36cd3f05.chunk.js"
+  ]
+}
