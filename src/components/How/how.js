@@ -19,16 +19,10 @@ export default class How extends Component {
                     </p>
                 </div>
 
-                <div className ="mt-10 m-auto ">
-                    <img src={HowImg} alt="" />
+                <div className ="mt-10 m-auto mb-10">
+                    <img className="shadow-lg" src={HowImg} alt="" />
                     <Button2 btn="Learn more" />
                 </div>
-
-                
-
-                
-
-
 
             </div>   
             
