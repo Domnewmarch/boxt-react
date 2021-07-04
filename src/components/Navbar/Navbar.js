@@ -1,6 +1,7 @@
 import React from 'react'
 import Logo from '../../assets/images/boxt-logo.png'
 import { FaPhoneAlt } from 'react-icons/fa'
+import { Link } from 'react-scroll'
 
 const Navbar = () => {
     return (
@@ -14,7 +15,7 @@ const Navbar = () => {
 
               <nav className="pl-36 pr-36">
                   <ul className="flex">
-                      <li className="p-5 text-gray-500 text-lg">Products</li>
+                      <li className="p-5 text-gray-500 text-lg cursor-pointer"> <Link to="review" smooth={true} duration={1000}>Products</Link> </li>
                       <li className="p-5 text-gray-500 text-lg">About BOXT</li>
                       <li className="p-5 text-gray-500 text-lg">Installation</li>
                       <li className="p-5 text-gray-500 text-lg">FAQs</li>

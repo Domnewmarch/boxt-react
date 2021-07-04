@@ -1,13 +1,14 @@
 import React, { Component } from 'react'
 import ReviewBox from './ReviewBox'
 
+
 import Trustlogo from '../../assets/logos/trustpilot-1.svg'
 
 export default class Review extends Component {
     render(){
         return(
             
-            <div className="max-w-screen-xl m-auto items-centerflex flex-col mb-20">
+            <div className="max-w-screen-xl m-auto items-centerflex flex-col mb-20" id="review">
 
                 <div>
                     <h2 className="text-gray-800 text-5xl font-bold text-center mt-10">Our customers rate us No.1</h2>
