@@ -1,6 +1,6 @@
-import { Fragment } from 'react'
-import { Disclosure, Menu, Transition } from '@headlessui/react'
-import { BellIcon, MenuIcon, XIcon } from '@heroicons/react/outline'
+
+import { Disclosure} from '@headlessui/react'
+import { MenuIcon, XIcon } from '@heroicons/react/outline'
 import Logo from '../../assets/images/boxt-logo.png'
 import { FaPhoneAlt } from 'react-icons/fa'
 
@@ -16,7 +16,7 @@ function classNames(...classes) {
   return classes.filter(Boolean).join(' ')
 }
 
-export default function Example() {
+export default function Nav() {
   return (
     <Disclosure as="nav" className="bg-white sm:flex">
       {({ open }) => (

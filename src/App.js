@@ -4,13 +4,13 @@ import Partners from "./components/Partners/Partners";
 import How from "./components/How/how";
 import './index.css';
 import Review from "./components/Reviews/Review";
-import Example from "./components/Navbar/Nav-TailwindUI";
+import Nav from "./components/Navbar/Nav-TailwindUI";
 
 
 function App() {
   return (
     <>
-       <Example />
+       <Nav />
        <Hero />
        <Partners />
        <How />
