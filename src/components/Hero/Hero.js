@@ -16,19 +16,19 @@ export default class Hero extends Component {
 
                         
 
-                        <div className="mt-20 ml-40 info-text">
+                        <div className="md:mt-20 md:ml-40 info-text flex-wrap p-5 md:p-0">
                             <h1 className="text-7xl text-white font-bold">Boiler Trouble?</h1>
                             <h2 className="text-3xl text-white mt-3">Get a new boiler at a fixed price with COVID safe installation tomorrow.</h2>
                             <p className="text-lg text-white mt-3">From the UK's <span className="font-bold">No.1 Heating Company</span></p>
     
                             <Button btn="Get your fixed price now" />
 
-                            <img className="mt-8" src={Itv} alt="" />
+                            <img className="mt-8 " src={Itv} alt="" />
     
                         </div>
 
                         <div className="z-0 relative boiler-wrapper">
-                            <img className="boiler-img" src={Boiler} alt="" />
+                            <img className="boiler-img md:block hidden" src={Boiler} alt="" />
                         </div>
 
                         
