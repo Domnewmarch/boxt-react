@@ -26,7 +26,7 @@ export default class Hero extends Component {
                             <Button btn="Get your fixed price now" />
                             
                             <div className="flex mt-5 items-center">
-                                <p className="text-white text-sm font-bold uppercase mr-4">excellent</p>
+                                <p className="text-white text-md font-bold capitalize italic mr-4">excellent</p>
                                 <img className="w-28 mr-5" src={Stars} alt="" />
                                 <p className="text-xs mt-1 mr-3 text-white hidden md:block"><span className="font-bold">5.0</span> / 5 on <span className="font-bold">8,164 reviews</span></p>
                                 <img className="w-20" src={Trustlogo} alt="" />
