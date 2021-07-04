@@ -23,28 +23,28 @@ export default class Review extends Component {
                     />
 
                     <ReviewBox 
-                        time="3 hours ago"
+                        time="10 hours ago"
                         title="Boiler ordered and fitted in a week "
                         review="Boiler ordered and fitted in a week. The fitter Jamie Hardaker was very professional"
                         name="Malcolm Clegg"
                     />
 
                     <ReviewBox 
-                        time="3 hours ago"
+                        time="12 hours ago"
                         title="Boiler ordered and fitted in a week "
                         review="Boiler ordered and fitted in a week. The fitter Jamie Hardaker was very professional"
                         name="Malcolm Clegg"
                     />
 
                     <ReviewBox 
-                        time="3 hours ago"
+                        time="2 days ago"
                         title="Boiler ordered and fitted in a week "
                         review="Boiler ordered and fitted in a week. The fitter Jamie Hardaker was very professional"
                         name="Malcolm Clegg"
                     />
 
                     <ReviewBox 
-                        time="3 hours ago"
+                        time="2 days ago"
                         title="Boiler ordered and fitted in a week "
                         review="Boiler ordered and fitted in a week. The fitter Jamie Hardaker was very professional"
                         name="Malcolm Clegg"
