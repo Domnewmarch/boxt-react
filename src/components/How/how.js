@@ -1,12 +1,12 @@
-import React, { Component } from 'react'
+import React from 'react'
 
 import HowImg from '../../assets/images/how-img.png'
 
 import Button2 from '../Button/Button2'
 
 
-export default class How extends Component {
-    render(){
+const How = () => {
+    
         return(
 
             <div className="text-center max-w-screen-xl m-auto border-b mt-10 flex flex-col">
@@ -28,5 +28,6 @@ export default class How extends Component {
             
 
         )
-    }
 }
+
+export default How

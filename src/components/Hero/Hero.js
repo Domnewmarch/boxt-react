@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React from 'react'
 import Button from '../Button/Button'
 
 import Itv from '../../assets/logos/itv.png'
@@ -8,8 +8,8 @@ import Trustlogo from '../../assets/logos/trustpilot-1.svg'
 
 
 
-export default class Hero extends Component {
-    render(){
+const How = () => {
+    
         return (
 
                 <div className="bg-gradient-to-t from-red-500 to-red-400 landing-hero--boiler overflow-hidden flex">
@@ -48,7 +48,7 @@ export default class Hero extends Component {
                 </div>
         )
 
-    }
 }
 
+export default How
 

@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React from 'react'
 import PartnersLogo from '../logos/partner.logo'
 
 
@@ -8,8 +8,8 @@ const bosch = require('../../assets/logos/bosch-logo.svg')
 const google = require('../../assets/logos/Google-logo.svg')
 const itv = require('../../assets/logos/itv-logo.svg')
 
-export default class Partners extends Component {
-    render(){
+const Partners = () => {
+    
         return(
 
             <div className="items-center text-center m-auto border-b">
@@ -32,5 +32,7 @@ export default class Partners extends Component {
             
 
         )
-    }
+    
 }
+
+export default Partners

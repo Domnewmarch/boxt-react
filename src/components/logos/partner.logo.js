@@ -1,14 +1,14 @@
-import React, { Component } from 'react'
+import React from 'react'
 
-export default class PartnersLogo extends Component {
-    render(){
+const PartnersLogo = (props) => {
+    
         return(
             
             <div>
-                <img className="opacity-50" src={this.props.img} alt="" />
+                <img className="opacity-50" src={props.img} alt="" />
             </div>
-            
 
         )
-    }
 }
+
+export default PartnersLogo
